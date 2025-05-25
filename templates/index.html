@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>College Placement Portal</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"/>
+
+    <style>
+        .home-wrapper {
+            min-height: 100vh;
+            display: flex;
+            background-image: linear-gradient(to bottom, rgb(223, 170, 72) 40%, rgb(72, 139, 165));
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .home-buttons {
+            margin-top: 30px;
+            display: flex;
+            gap: 20px;
+        }
+
+        .home-buttons a {
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            font-weight: 600;
+            background-color: #28a745;
+            color: white;
+            border-radius: 10px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .home-buttons a:hover {
+            background-color: #218838;
+            text-decoration: none;
+            transform: scale(1.05);
+        }
+
+        h1 {
+            font-weight: 700;
+            color: #fff;
+            text-shadow: 1px 1px 4px #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="home-wrapper container">
+        <h1>🎓 College Placement Portal</h1>
+        <div class="home-buttons">
+            <a href="/student">I'm a Student</a>
+            <a href="/company">I'm a Company</a>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS (optional, if needed) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

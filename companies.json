@@ -1,0 +1,130 @@
+[
+    {
+        "name": "spacex",
+        "jobRole": "data analyst",
+        "skills": [
+            "data visualization",
+            "critical thinking",
+            "data cleaning",
+            "coding skills",
+            "problem solving"
+        ],
+        "min_cgpa": 7.0,
+        "experience": "No"
+    },
+    {
+        "name": "deeplearningai",
+        "jobRole": "data analyst",
+        "skills": [
+            "data visualization",
+            "critical thinking",
+            "data cleaning",
+            "coding skills",
+            "problem solving"
+        ],
+        "min_cgpa": 7.0,
+        "experience": "No"
+    },
+    {
+        "name": "hashtek solutions",
+        "jobRole": "data analyst",
+        "skills": [
+            "data visualization",
+            "critical thinking",
+            "data cleaning",
+            "coding skills",
+            "problem solving"
+        ],
+        "min_cgpa": 7.0,
+        "experience": "No"
+    },
+    {
+        "name": "google",
+        "jobRole": "data analyst",
+        "skills": [
+            "data visualization",
+            "critical thinking",
+            "data cleaning",
+            "coding skills",
+            "problem solving"
+        ],
+        "min_cgpa": 8.0,
+        "experience": "No"
+    },
+    {
+        "name": "microsoft",
+        "jobRole": "data analyst",
+        "skills": [
+            "data visualization",
+            "data cleaning",
+            "coding skills"
+        ],
+        "min_cgpa": 8.0,
+        "experience": "No"
+    },
+    {
+        "name": "nvida",
+        "jobRole": "data analyst",
+        "skills": [
+            "data cleaning",
+            "coding skills"
+        ],
+        "min_cgpa": 8.0,
+        "experience": "No"
+    },
+    {
+        "name": "caffe",
+        "jobRole": "data analyst",
+        "skills": [
+            "data cleaning",
+            "visualization skills",
+            "problem solving"
+        ],
+        "min_cgpa": 7.0,
+        "experience": "yes"
+    },
+    {
+        "name": "openai",
+        "jobRole": "data analyst",
+        "skills": [
+            "data cleaning",
+            "visualization skills",
+            "problem solving"
+        ],
+        "min_cgpa": 7.0,
+        "experience": "yes"
+    },
+    {
+        "name": "deepseek",
+        "jobRole": "data analyst",
+        "skills": [
+            "data cleaning",
+            "visualization skills",
+            "problem solving"
+        ],
+        "min_cgpa": 7.0,
+        "experience": "yes"
+    },
+    {
+        "name": "ibm",
+        "jobRole": "data analyst",
+        "skills": [
+            "data cleaning",
+            "visualization skills",
+            "problem solving"
+        ],
+        "min_cgpa": 7.0,
+        "experience": "yes"
+    },
+    {
+        "name": "tensorflow",
+        "jobRole": "data analyst",
+        "skills": [
+            "data cleaning",
+            "visualization skills",
+            "problem solving"
+        ],
+        "min_cgpa": 7.0,
+        "experience": "yes"
+    }
+]
